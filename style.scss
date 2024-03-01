@@ -1,0 +1,36 @@
+body {
+  background-color: CornflowerBlue;
+}
+
+h1 { 
+color: DarkSlateBlue;
+}
+
+h2 {
+  color: White;
+  font-family: "Lucida Handwriting", cursive;
+}
+p {
+  color: Gold;
+  font-family: "Courier New", monospace;
+}
+h3 {
+  color: Plum
+}
+ol {
+  color: RebeccaPurple;
+  font-family: "Courier New", monospace;
+}
+ 
+.journal{ 
+width: 55%;
+  margin-left: 2%;
+}
+.code{
+  width: 20%;
+  margin-left: 2%;
+}
+.nav a:hover{
+  color:pink;
+  background-color: PapyayaWhip;
+}
